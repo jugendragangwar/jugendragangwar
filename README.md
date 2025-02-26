@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" height="200" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzQ5MmY5N3dvMDB2dXUwcnRzdjl5MTdxbm9kYXl1MDZiMnVuMWRtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oaDcc0LTCuIAiGYrzn/giphy.gif" width="300" height="200" />
 </div>
 
 <p align="center">I transform ideas into elegant, responsive web experiences using modern JavaScript frameworks and cutting-edge UI libraries. Building sleek React applications with Tailwind CSS and Framer Motion keeps me inspired every day! ✨</p>
