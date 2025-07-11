@@ -44,7 +44,7 @@
 <a href="https://x.com/Jugendra7409"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
 <a href="https://www.instagram.com/jugendra_gangwar_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/jugendra.kurmi.77"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-   <img src="https://img.shields.io/badge/Portfolio-FFBD39?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
+<a href="https://lnk.bio/Jugendra"><img src="https://img.shields.io/badge/Portfolio-FFBD39?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
 </div>
 
 
