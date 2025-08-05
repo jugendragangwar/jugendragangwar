@@ -1,5 +1,9 @@
 <!-- Profile Views Counter -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jugendragangwar&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
 
+<h1 align="left">
 <h1 align="left">
   Hi there! I'm Jugendra Gangwar 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
@@ -17,7 +21,6 @@ Recently gained hands-on backend experience with **Express.js** and **MongoDB** 
 
 ## 🛠️ Tech Stack & Tools
 
-### Frontend Development
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <!--   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> -->
@@ -30,7 +33,6 @@ Recently gained hands-on backend experience with **Express.js** and **MongoDB** 
   <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer Motion" />
 </p>
 
-### Backend Development
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
@@ -38,7 +40,6 @@ Recently gained hands-on backend experience with **Express.js** and **MongoDB** 
 <!--   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /> -->
 </p>
 
-### Database & Cloud
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 <!--   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> -->
@@ -47,7 +48,6 @@ Recently gained hands-on backend experience with **Express.js** and **MongoDB** 
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
 
-### Tools & Others
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -67,11 +67,6 @@ Recently gained hands-on backend experience with **Express.js** and **MongoDB** 
 
 
 ![snake gif](https://github.com/jugendragangwar/jugendragangwar/blob/output/github-snake-dark.svg)
-
-## 🏅 GitHub Trophies
-<div align="">
-  <img src="https://github-profile-trophy.vercel.app/?username=jugendragangwar&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
 
 ## 🌐 Connect with Me
 <div>
