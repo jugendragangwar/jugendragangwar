@@ -97,6 +97,4 @@ Recently gained hands-on backend experience with **Express.js** and **MongoDB** 
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
   
   **Thanks for visiting my profile! Let's build something amazing together!** 🚀
-  
-  <img src="https://komarev.com/ghpvc/?username=jugendragangwar&style=flat-square&color=blue" alt="">
 </div>
