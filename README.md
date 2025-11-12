@@ -5,8 +5,7 @@
 
 <h1 align="left">
 <h1 align="left">
-  Hi there! I'm Jugendra Gangwar 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hi there! I'm Jugendra Gangwar
 </h1>
 
 <p align="left">
@@ -15,9 +14,9 @@
 
 ## 🚀 About Me
 
-Full-Stack Developer passionate about building sleek, responsive web applications with **React.js**, **Tailwind CSS**, and **Framer Motion**. I specialize in creating high-performance, accessible user interfaces using clean, modular code. ✨
+Full-Stack Developer passionate about building sleek, responsive web applications with **React.js**, **Tailwind CSS**, and **Framer Motion**. I specialize in creating high-performance, accessible user interfaces using clean, modular code.
 
-Recently gained hands-on backend experience with **Express.js** and **MongoDB** through full-stack personal projects, allowing me to deliver complete and scalable web solutions. Currently leveling up with **TypeScript** and exploring advanced animation techniques to craft unforgettable user experiences. 🔥
+Recently gained hands-on backend experience with **Express.js** and **MongoDB** through full-stack personal projects, allowing me to deliver complete and scalable web solutions. Currently leveling up with **TypeScript** and exploring advanced animation techniques to craft unforgettable user experiences.
 
 ## 🛠️ Tech Stack & Tools
 
