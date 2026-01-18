@@ -81,7 +81,7 @@ Recently gained hands-on backend experience with **Express.js** and **MongoDB** 
   <a href="https://www.instagram.com/jugendra_gangwar_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://lnk.bio/Jugendra">
+  <a href="https://portfolio-2025-murex-pi.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FFBD39?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:jugendra.dev@gmail.com">
