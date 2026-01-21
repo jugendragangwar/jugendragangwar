@@ -5,7 +5,7 @@
 
 <h1 align="left">
 <h1 align="left">
-  Hi there! I'm Jugendra Gangwar
+  Hi there! I'm Jugendra
 </h1>
 
 <p align="left">
