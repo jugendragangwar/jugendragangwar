@@ -114,18 +114,6 @@ Right now I'm deep into **TypeScript** (yes, I now argue with my own code before
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  CONTRIBUTION GRAPH                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jugendragangwar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=7c3aed&point=ffffff&area=true&area_color=7c3aed" width="100%" alt="Contribution Graph" />
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    SNAKE ANIMATION                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
