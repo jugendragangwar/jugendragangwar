@@ -99,13 +99,7 @@ Right now I'm deep into **TypeScript** (yes, I now argue with my own code before
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jugendragangwar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&rank_icon=github" width="49%" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jugendragangwar&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA&sideLabels=A78BFA" width="49%" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jugendragangwar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" width="40%" alt="Top Languages" />
-
 </div>
 
 ---
