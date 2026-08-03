@@ -10,8 +10,11 @@
 <!--                     TYPING ANIMATION                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;React+Developer+%E2%9A%9B%EF%B8%8F;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Always+Learning+New+Tech+%F0%9F%93%9A" alt="Typing SVG" />
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+Ecosystem+Specialist+%E2%9A%9B%EF%B8%8F;Next.js+%26+TypeScript+Developer+%F0%9F%92%BB;Building+Scalable+Web+Applications+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%A4%9D"
+    alt="Typing animation introducing Jugendra Gangwar's developer roles"
+  />
 </a>
 
 <br/>
@@ -164,15 +167,3 @@ Right now I'm deep into **TypeScript** (yes, I now argue with my own code before
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         FOOTER                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-*"It works on my machine" — shipping my machine next sprint.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%" />
-
-</div>
