@@ -38,7 +38,7 @@
 
 Hey, I'm Jugendra a Full Stack Developer who spends way too much time making buttons look *perfect* and not nearly enough time explaining to people what I actually do for a living.
 
-I build sleek, responsive, and animated web apps using **React.js**, **Next.js**, **Tailwind CSS**, and **Framer Motion**. I have a thing for clean UIs and smooth transitions — the kind where the user doesn't know why it feels good, it just does. That's the goal.
+I build sleek, responsive, and animated web apps using **React.js**, **Next.js**, **Tailwind CSS**, and **Framer Motion**. I have a thing for clean UIs and smooth transitions the kind where the user doesn't know why it feels good, it just does. That's the goal.
 
 On the backend side, I've been picking up **Node.js**, **Express.js**, and **MongoDB** mostly because "I only do frontend" stopped being a valid excuse at some point. Turns out servers aren't that scary once you stop ignoring them.
 
