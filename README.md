@@ -36,18 +36,18 @@
 
 ## About Me
 
-Hey, I'm Jugendra — a Full Stack Developer who spends way too much time making buttons look *perfect* and not nearly enough time explaining to people what I actually do for a living.
+Hey, I'm Jugendra a Full Stack Developer who spends way too much time making buttons look *perfect* and not nearly enough time explaining to people what I actually do for a living.
 
 I build sleek, responsive, and animated web apps using **React.js**, **Next.js**, **Tailwind CSS**, and **Framer Motion**. I have a thing for clean UIs and smooth transitions — the kind where the user doesn't know why it feels good, it just does. That's the goal.
 
-On the backend side, I've been picking up **Node.js**, **Express.js**, and **MongoDB** — mostly because "I only do frontend" stopped being a valid excuse at some point. Turns out servers aren't that scary once you stop ignoring them.
+On the backend side, I've been picking up **Node.js**, **Express.js**, and **MongoDB** mostly because "I only do frontend" stopped being a valid excuse at some point. Turns out servers aren't that scary once you stop ignoring them.
 
 Right now I'm deep into **TypeScript** (yes, I now argue with my own code before it runs) and exploring advanced Next.js patterns because apparently I enjoy suffering — I mean, *learning*.
 
 - Currently building animated, responsive web applications that nobody asked to be animated, but here we are
 - Exploring Next.js App Router like it's a treasure map with missing pieces
 - I animate things that genuinely don't need animating. The loading spinner has a spring physics transition. You're welcome.
-- Ask me about React, Tailwind, Framer Motion, or literally anything frontend — I will not shut up
+- Ask me about React, Tailwind, Framer Motion, or literally anything frontend I will not shut up
 
 ---
 
