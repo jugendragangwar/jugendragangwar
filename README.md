@@ -42,7 +42,7 @@ I build sleek, responsive, and animated web apps using **React.js**, **Next.js**
 
 On the backend side, I've been picking up **Node.js**, **Express.js**, and **MongoDB** mostly because "I only do frontend" stopped being a valid excuse at some point. Turns out servers aren't that scary once you stop ignoring them.
 
-Right now I'm deep into **TypeScript** (yes, I now argue with my own code before it runs) and exploring advanced Next.js patterns because apparently I enjoy suffering — I mean, *learning*.
+Right now I'm deep into **TypeScript** (yes, I now argue with my own code before it runs) and exploring advanced Next.js patterns because apparently I enjoy suffering I mean, *learning*.
 
 - Currently building animated, responsive web applications that nobody asked to be animated, but here we are
 - Exploring Next.js App Router like it's a treasure map with missing pieces
