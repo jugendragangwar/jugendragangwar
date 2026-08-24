@@ -55,7 +55,7 @@ Right now I'm deep into **TypeScript** (yes, I now argue with my own code before
 <!--                       TECH STACK                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 <p>
