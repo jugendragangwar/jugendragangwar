@@ -155,7 +155,7 @@ Right now I'm deep into **TypeScript** (yes, I now argue with my own code before
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://portfolio-2025-murex-pi.vercel.app/" target="_blank">
+<a href="https://jugendragangwar.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 &nbsp;
